@@ -1,0 +1,8 @@
+{
+  "name": "Management der Aufgaben für den Ausbau der sozialpädagogischen Lernplattform",
+  "description": "A powerful task management app with interactive graphical tree views, smart text parsing, and automatic status propagation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
